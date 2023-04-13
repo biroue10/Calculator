@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&family=Oxygen+Mono&family=Roboto:wght@100;300;400;500;700&display=swap');
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.brand{
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 4rem;  
+    padding: O;
+}
+.brand-header{
+    padding: 50px;
+}
+.page{
+    padding: 50px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    border: solid 3px black;
+    padding: 30px;
+}
+.site-section{
+    list-style: none;
+    display: list-item;
+    font-size: 2rem;
+    text-decoration: none;
+    margin: auto;
+} 
+.site-section a{
+    text-decoration: none;
+    color: #999999;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.site-section a:hover{
+    text-decoration: underline
+}
+.troishistoire{
+    display: flex;
+    justify-content: center;
+}
+.story-1{
+    border: solid 2px black;
+}
+.story-2{
+    border: solid 2px black;
+}
+.story-3{
+    border: solid 2px black;
+}
+h2{
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2 p{
+    margin-top: 10px;
+}
+.restehistoire{
+display: flex;
+}
+.story-4{
+    border: solid 2px black;
+}
+.story-5{
+    border: solid 2px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
